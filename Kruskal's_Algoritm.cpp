@@ -70,7 +70,7 @@ int main()
     
     for(int i =0;i<nodes;i++)
     {
-        
+        cout<<distance[i]<<endl;
     }
 
 return 0;
